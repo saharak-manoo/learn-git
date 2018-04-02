@@ -84,9 +84,25 @@
 ```
 	 git status
 ```	
-ทำการอัปโหลดไฟล์ ไปที่ Github เพื่อทำการ merge เพื่อ ทำเวอร์ชั่นทดลองใช้ เข้าไปที่ branch develop 
+ทำการอัปโหลดไฟล์ ไปที่ Github เพื่อทำการ merge ที่แก้ไข code ที่พบว่าทำงานผิดพลาด เข้าไปที่ branch develop และ master (pust เสร็จ ทำบนเว็ป Github)
 ```
-	 git push origin HWhotfix/1.2
+	 git push origin releae/releae_name
+```
+ทำการย้าย branch ไปอยู่ที่ develop 
+```
+git co master
+```
+ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
+```
+git pull origin develop
+```
+ทำการย้าย branch ไปอยู่ที่ master
+```
+git co master
+```
+ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
+```
+git pull origin master
 ```
 ทำการปริ้น ข้อความที่อยู่ในไฟล์ README.md ออกมาทาง terminal
 ```
@@ -131,13 +147,30 @@
 ```
 	 git status
 ```	
-ทำการอัปโหลดไฟล์ ไปที่ Github เพื่อทำการ merge ที่แก้ไข code ที่พบว่าทำงานผิดพลาด เข้าไปที่ branch develop 
+ทำการอัปโหลดไฟล์ ไปที่ Github เพื่อทำการ merge ที่แก้ไข code ที่พบว่าทำงานผิดพลาด เข้าไปที่ branch develop และ master (pust เสร็จ ทำบนเว็ป Github)
 ```
-	 git push origin HWhotfix/1.2
+	 git push origin hotfix/hotfix_name
+```
+ทำการย้าย branch ไปอยู่ที่ develop 
+```
+git co master
+```
+ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
+```
+git pull origin develop
+```
+ทำการย้าย branch ไปอยู่ที่ master
+```
+git co master
+```
+ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
+```
+git pull origin master
 ```
 ทำการปริ้น ข้อความที่อยู่ในไฟล์ README.md ออกมาทาง terminal
 ```
 	 cat README.md
 
 ```
+
 
