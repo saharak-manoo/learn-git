@@ -90,19 +90,19 @@
 ```
 ทำการย้าย branch ไปอยู่ที่ develop 
 ```
-git co master
+     git co master
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
-git pull origin develop
+     git pull origin develop
 ```
 ทำการย้าย branch ไปอยู่ที่ master
 ```
-git co master
+     git co master
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
-git pull origin master
+     git pull origin master
 ```
 ทำการปริ้น ข้อความที่อยู่ในไฟล์ README.md ออกมาทาง terminal
 ```
@@ -153,19 +153,19 @@ git pull origin master
 ```
 ทำการย้าย branch ไปอยู่ที่ develop 
 ```
-git co master
+	 git co master
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
-git pull origin develop
+     git pull origin develop
 ```
 ทำการย้าย branch ไปอยู่ที่ master
 ```
-git co master
+     git co master
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
-git pull origin master
+     git pull origin master
 ```
 ทำการปริ้น ข้อความที่อยู่ในไฟล์ README.md ออกมาทาง terminal
 ```
