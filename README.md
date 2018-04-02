@@ -2,9 +2,6 @@
 
 # feature/feature_name
 
-# releae/v1.0
-
-# hotfix/v1.5
 
 ```
 feature/feature_name
@@ -19,13 +16,17 @@ feature/feature_name
 	 git push origin HWhotfix/1.2git status
 
 ```
-
+# releae/v1.0
 ```
 releae/v1.0
 
 	 git co develop
 	 git co -b releae/v1.0
 ```
+
+
+
+# hotfix/v1.5
 
 ```
 hotfix/v1.5
