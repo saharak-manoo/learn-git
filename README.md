@@ -4,16 +4,18 @@
 
 
 ```
-feature/feature_name
 
+ทำการย้าย branch ไปอยู่ที่ develop 
 	 git co develop
+ทำการสร้าง 	branch  ชื่อ  feature/feature_name
 	 git co -b feature/feature_name
-	 subl README.md (แก้ไขโค้ด)
+	 subl README.md 
 	 git add .
 	 git commit -m "Addfeature login Test"
 	 git log --oneline
 	 git status
-	 git push origin HWhotfix/1.2git status
+	 git push origin HWhotfix/1.2
+	 cat README.md
 
 ```
 # releae/v1.0
