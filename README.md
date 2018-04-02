@@ -1,5 +1,9 @@
-Hello git
+# learngit
 
-release test
+# feature/feature_name
 
-Hotfix Test
+```
+feature/feature_name
+	 git co develop
+	 git co -b feature/feature_name
+```
