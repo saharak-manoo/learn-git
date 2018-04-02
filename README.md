@@ -42,6 +42,14 @@
 ```
 	 git push origin HWhotfix/1.2
 ```
+ทำการย้าย branch ไปอยู่ที่ develop 
+```
+     git co develop 
+```
+ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
+```
+     git pull origin develop
+```
 ทำการปริ้น ข้อความที่อยู่ในไฟล์ README.md ออกมาทาง terminal
 ```
 	 cat README.md
