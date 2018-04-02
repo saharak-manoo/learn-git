@@ -90,7 +90,7 @@
 ```
 ทำการย้าย branch ไปอยู่ที่ develop 
 ```
-     git co master
+     git co develop 
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
@@ -153,7 +153,7 @@
 ```
 ทำการย้าย branch ไปอยู่ที่ develop 
 ```
-	 git co master
+	 git co develop 
 ```
 ทำการ pull เพื่อให้ อัปเดรตจาก server มา ที่เครื่องของเรา
 ```
