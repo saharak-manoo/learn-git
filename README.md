@@ -40,7 +40,7 @@
 ```	
 ทำการอัปโหลดไฟล์ ไปที่ Github เพื่อทำการ merge ที่แก้ไข หรือเพิ่ม Featuer เข้าไปที่ branch develop 
 ```
-	 git push origin HWhotfix/1.2
+	 git push origin feature/feature_name
 ```
 ทำการย้าย branch ไปอยู่ที่ develop 
 ```
